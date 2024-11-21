@@ -1,7 +1,3 @@
-//
-// Created by Flavia Rivero on 21/11/24.
-//
-
 #include "asistencia.h"
 #include <iostream>
 Asistencia::Asistencia(const std::string& fecha, const std::string& materia, const std::string& estado)

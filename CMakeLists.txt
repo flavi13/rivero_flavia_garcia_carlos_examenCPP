@@ -6,12 +6,24 @@ set(CMAKE_C_STANDARD 99)
 set(CMAKE_C_STANDARD_REQUIRED True)
 
 
-add_executable(rivero_flavia_garcia_carlos_examenCPP
-        main.cpp
-        asistencia.cpp
-        estudiantes.cpp
-        excepciones.cpp
-        utils.cpp
-        estudiantes.h
+add_executable(CPP
+        cpp/main.cpp
+        cpp/asistencia.cpp
+        cpp/estudiantes.cpp
+        cpp/excepciones.cpp
+        cpp/utils.cpp
+        cpp/estudiantes.h
 
+)
+
+add_executable(c
+        c/main.c
+        c/estudiantes.c
+        c/estudiantes.h
+        c/asistencia.c
+        c/asistencia.h
+        c/utils.c
+        c/utils.h
+        c/excepciones.c
+        c/excepciones.h
 )
