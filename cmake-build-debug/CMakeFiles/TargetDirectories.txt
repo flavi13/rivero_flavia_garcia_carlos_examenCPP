@@ -1,0 +1,3 @@
+/Users/flaviarivero/github/rivero_flavia_garcia_carlos_examenCPP/cmake-build-debug/CMakeFiles/rivero_flavia_garcia_carlos_examenCPP.dir
+/Users/flaviarivero/github/rivero_flavia_garcia_carlos_examenCPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/flaviarivero/github/rivero_flavia_garcia_carlos_examenCPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
