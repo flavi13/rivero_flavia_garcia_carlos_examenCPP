@@ -1,4 +1,7 @@
 # rivero_flavia_garcia_carlos_examenCPP
+
+[Repositorio en GitHub - Rivero Flavia García Carlos](https://github.com/flavi13/rivero_flavia_garcia_carlos_examenCPP/tree/main)
+
 Estimado estudiante,
 
 Para garantizar una correcta evaluación de tus habilidades y entendimiento en la programación en C++, hemos establecido un conjunto de condiciones que deberás seguir al momento de entregar tus respuestas al examen. La estructura y presentación de tu entrega son esenciales para facilitar el proceso de corrección y asegurarnos de que hemos evaluado todos tus esfuerzos de manera justa.
@@ -34,7 +37,7 @@ Siguiendo estas condiciones y presentando tu trabajo de manera organizada, nos a
 
 ## Parte 1: Preguntas de elección múltiple (20%)
 
-¿Cuál es la principal diferencia entre la estructura básica del programa en C y C++?
+### **¿Cuál es la principal diferencia entre la estructura básica del programa en C y C++?**
 
 a) C utiliza cout y cin mientras que C++ utiliza printf y scanf.
 
@@ -44,7 +47,9 @@ c) No hay ninguna diferencia.
 
 d) C++ utiliza printf y scanf mientras que C utiliza std::cout y std::cin.
 
-¿Qué es un espacio de nombres en C++?
+**Respuesta:** d) **C utiliza `printf` y `scanf` mientras que C++ utiliza `std::cout` y `std::cin`.**
+
+### **¿Qué es un espacio de nombres en C++?**
 
 a) Una característica que permite agrupar entidades como clases, objetos y funciones bajo un nombre.
 
@@ -54,7 +59,9 @@ c) Una función de la biblioteca estándar.
 
 d) Un tipo de ciclo en C++.
 
-En programación orientada a objetos en C++, ¿qué es una clase?
+**Respuesta:** a) **Una característica que permite agrupar entidades como clases, objetos y funciones bajo un nombre.**
+
+### **En programación orientada a objetos en C++, ¿qué es una clase?**
 
 a) Una agrupación de funciones.
 
@@ -64,7 +71,9 @@ c) Un tipo de dato primitivo.
 
 d) Una plantilla para crear objetos, proporciona una definición inicial para el estado (miembros de datos) y el comportamiento (miembros de la función).
 
-¿Qué son los templates en C++?
+**Respuesta:** d) **Una plantilla para crear objetos, proporciona una definición inicial para el estado (miembros de datos) y el comportamiento (miembros de la función).**
+
+### **¿Qué son los templates en C++?**
 
 a) Un tipo especial de clase.
 
@@ -73,6 +82,8 @@ b) Permiten la creación de funciones y clases genéricas, es decir, que pueden 
 c) Una forma de definir variables.
 
 d) Una característica específica de C.
+
+**Respuesta:** b) **Permiten la creación de funciones y clases genéricas, es decir, que pueden trabajar con cualquier tipo de datos.**
 
 ## Parte 2: Pregunta de desarrollo de código (80%)
 
@@ -154,6 +165,37 @@ Conclusión:
 
 Con base en tu experiencia y las implementaciones desarrolladas:
 
-¿Cuál de los dos lenguajes consideras más adecuado para el proyecto del CGEA?
+## **Conclusión del Proyecto**
 
-¿Qué recomendaciones harías al equipo de desarrollo del CGEA para la siguiente fase del proyecto?
+### **Comparación entre C y C++**
+
+1. **Estructura de Estudiante:**
+   - **C:** Utiliza `struct` y requiere funciones externas para operar.  
+   - **C++:** Usa clases que encapsulan datos y comportamientos.  
+   **Ventaja:** C++ permite un diseño modular y orientado a objetos.
+
+2. **Gestión de materias:**
+   - **C:** Usa arreglos estáticos/dinámicos, con mayor riesgo de errores.  
+   - **C++:** Usa `std::vector`, lo que facilita la gestión.  
+   **Ventaja:** Mayor seguridad y eficiencia en C++.
+
+3. **Registro de asistencias:**
+   - **C:** Funciones externas dificultan la integración.  
+   - **C++:** Clases integradas mejoran el diseño.  
+   **Ventaja:** Diseño modular en C++.
+
+4. **Manejo de excepciones:**
+   - **C:** Uso manual de verificaciones.  
+   - **C++:** Excepciones personalizadas y bloques `try-catch`.  
+   **Ventaja:** Mayor robustez en C++.
+
+---
+
+### **Recomendaciones**
+1. **Lenguaje recomendado:** C++, por su orientación a objetos y herramientas avanzadas.
+2. **Modularidad:** Diseñar componentes independientes.
+3. **Gestión de errores:** Usar excepciones personalizadas.
+4. **Siguiente fase:** Implementar una base de datos y soporte multiplataforma.
+
+**Conclusión:**  
+C++ es la opción más adecuada para gestionar la diversidad y escalabilidad del CGEA.
